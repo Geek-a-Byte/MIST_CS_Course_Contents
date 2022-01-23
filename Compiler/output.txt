@@ -1,0 +1,6 @@
+Result:5.000000
+Result:8.000000
+Result:140.250000
+Div by 0 error.
+Result:4.000000
+Result:1.333333
